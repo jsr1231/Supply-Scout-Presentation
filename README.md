@@ -1,5 +1,6 @@
 Supply Scout: Finding Essential Supplies for Students
 Supply Scout is a mobile application designed to simplify the process of finding and purchasing essential supplies for students and local residents. Whether you’re looking for specific school supplies, household items, or urgent necessities, Supply Scout helps you find what you need quickly and conveniently.
+![The Digital Marketing Logo (1)](https://github.com/jsr1231/Supply-Scout-Presentation/assets/162722011/2dc6cad1-e60b-42ba-81d4-cdbb1f44f163)
 
 Features
 Real-Time Inventory Updates:
